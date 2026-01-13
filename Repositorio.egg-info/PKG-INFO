@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Repositorio
+Version: 0.1
+Home-page: https://github.com/JuanVillagranOlivera/Repositorio
+Author: Juan Villagran
+Author-email: juan.villagran@insodev.cl
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
